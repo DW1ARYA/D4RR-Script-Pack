@@ -1,0 +1,9 @@
+Config = {}
+Config.ESX = true
+Config.BotToken = ""
+Config.WebHook = "https://discord.com/api/webhooks/963006864373727303/-4BxGyfXM2BoRL9I7p_1yiHUlSJ_eHyyck03Lg9ja_XmiNhM73z-6PzsrmfDKxQG7UCf"
+Config.ChannelID = "963006817749844058"
+Config.ReplyUserName = ""
+Config.AvatarURL = "https://i.imgur.com/"
+Config.Prefix = "?"
+Config.WaitEveryTick = 4000  -- ITS MS
