@@ -1,0 +1,1 @@
+taruh file stream ydr,ybn,ytd
